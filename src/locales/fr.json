@@ -1,0 +1,35 @@
+{
+  "hero": {
+    "role": "Développeur IA Fullstack",
+    "description": "Solide expertise en développement frontend et backend, avec un accent sur la livraison d'un travail de haute qualité.",
+    "experience": {
+      "line1": "Années",
+      "line2": "d'expérience"
+    },
+    "projects": {
+      "line1": "Projets",
+      "line2": "completés"
+    },
+    "companies": {
+      "line1": "Entreprises",
+      "line2": "travaillées"
+    },
+    "resume": "CV"
+  },
+  "navbar": {
+    "language": "FR",
+    "projects": "Projets",
+    "career": "Carrière",
+    "skills": "Compétences",
+    "workProcess": "Processus",
+    "resume": "CV",
+    "contact": "Contact",
+    "theme": "Thème"
+  },
+  "projects": {
+    "title": "Derniers projets.",
+    "slide1": "M5, M4 Pro et M4 Max. Puces en puissance.",
+    "slide2": "Une plateforme puissante pour l'IA. Du génie dans les gènes.",
+    "slide3": "Jusqu'à 24 heures d'autonomie, la meilleure à ce jour sur Mac. À vos Mac partez."
+  }
+}

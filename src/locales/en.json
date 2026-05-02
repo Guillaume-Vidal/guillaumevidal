@@ -1,0 +1,35 @@
+{
+  "hero": {
+    "role": "Fullstack AI developer",
+    "description": "Extensive knowledge in both frontend and backend development, focusing on delivering high level quality work.",
+    "experience": {
+      "line1": "Years",
+      "line2": "experience"
+    },
+    "projects": {
+      "line1": "Completed",
+      "line2": "projects"
+    },
+    "companies": {
+      "line1": "Companies",
+      "line2": "worked"
+    },
+    "resume": "Resume"
+  },
+  "navbar": {
+    "language": "EN",
+    "projects": "Projects",
+    "career": "Career",
+    "skills": "Skills",
+    "workProcess": "Process",
+    "resume": "Resume",
+    "contact": "Contact",
+    "theme": "Theme"
+  },
+  "projects": {
+    "title": "Latest projects.",
+    "slide1": "M5, M4 Pro and M4 Max. Power in chips.",
+    "slide2": "A powerful platform for AI. Genius in the genes.",
+    "slide3": "Up to 24 hours of battery life, the best yet on Mac. On your marks, get set, Mac."
+  }
+}
